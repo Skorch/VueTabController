@@ -16,6 +16,7 @@
 		3A946D2C1BAA070900E1259B /* VueTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A946D2A1BAA070900E1259B /* VueTabBarViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		3A946D2D1BAA070900E1259B /* CustomTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A946D2B1BAA070900E1259B /* CustomTabBarViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		3A946D311BAA07AC00E1259B /* VueTabBarSegue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A946D301BAA07AC00E1259B /* VueTabBarSegue.swift */; settings = {ASSET_TAGS = (); }; };
+		3A946D331BAA0DAD00E1259B /* ModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A946D321BAA0DAD00E1259B /* ModalViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		3A946D2A1BAA070900E1259B /* VueTabBarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VueTabBarViewController.swift; sourceTree = "<group>"; };
 		3A946D2B1BAA070900E1259B /* CustomTabBarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTabBarViewController.swift; sourceTree = "<group>"; };
 		3A946D301BAA07AC00E1259B /* VueTabBarSegue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VueTabBarSegue.swift; sourceTree = "<group>"; };
+		3A946D321BAA0DAD00E1259B /* ModalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModalViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				3A946D301BAA07AC00E1259B /* VueTabBarSegue.swift */,
 				3A946D2A1BAA070900E1259B /* VueTabBarViewController.swift */,
 				3A946D2B1BAA070900E1259B /* CustomTabBarViewController.swift */,
+				3A946D321BAA0DAD00E1259B /* ModalViewController.swift */,
 				3A946CFC1BAA06B500E1259B /* AppDelegate.swift */,
 				3A946D001BAA06B500E1259B /* Main.storyboard */,
 				3A946D031BAA06B500E1259B /* Assets.xcassets */,
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3A946D2D1BAA070900E1259B /* CustomTabBarViewController.swift in Sources */,
+				3A946D331BAA0DAD00E1259B /* ModalViewController.swift in Sources */,
 				3A946D311BAA07AC00E1259B /* VueTabBarSegue.swift in Sources */,
 				3A946D2C1BAA070900E1259B /* VueTabBarViewController.swift in Sources */,
 				3A946CFD1BAA06B500E1259B /* AppDelegate.swift in Sources */,
