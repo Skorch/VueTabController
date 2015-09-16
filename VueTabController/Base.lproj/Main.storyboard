@@ -170,7 +170,6 @@
                             <constraint firstItem="yoJ-To-4CY" firstAttribute="top" secondItem="ggD-3M-hvS" secondAttribute="bottom" id="qtC-NJ-TBL"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Matches" image="Matches Icon" id="vlH-jz-cTl"/>
                     <connections>
                         <outlet property="activeIndicatorLeadingContraint" destination="9SK-GT-fia" id="uxa-03-L7T"/>
                         <outlet property="activeIndicatorView" destination="KRV-CA-fig" id="c1L-cP-IFP"/>
@@ -314,7 +313,4 @@
             <point key="canvasLocation" x="391" y="1902"/>
         </scene>
     </scenes>
-    <resources>
-        <image name="Matches Icon" width="30" height="33"/>
-    </resources>
 </document>

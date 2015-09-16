@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		3A946CFD1BAA06B500E1259B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A946CFC1BAA06B500E1259B /* AppDelegate.swift */; };
-		3A946CFF1BAA06B500E1259B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A946CFE1BAA06B500E1259B /* ViewController.swift */; };
 		3A946D021BAA06B500E1259B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A946D001BAA06B500E1259B /* Main.storyboard */; };
 		3A946D041BAA06B500E1259B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A946D031BAA06B500E1259B /* Assets.xcassets */; };
 		3A946D071BAA06B500E1259B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A946D051BAA06B500E1259B /* LaunchScreen.storyboard */; };
@@ -39,7 +38,6 @@
 /* Begin PBXFileReference section */
 		3A946CF91BAA06B500E1259B /* VueTabController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VueTabController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A946CFC1BAA06B500E1259B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3A946CFE1BAA06B500E1259B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3A946D011BAA06B500E1259B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3A946D031BAA06B500E1259B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A946D061BAA06B500E1259B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -107,7 +105,6 @@
 				3A946D2A1BAA070900E1259B /* VueTabBarViewController.swift */,
 				3A946D2B1BAA070900E1259B /* CustomTabBarViewController.swift */,
 				3A946CFC1BAA06B500E1259B /* AppDelegate.swift */,
-				3A946CFE1BAA06B500E1259B /* ViewController.swift */,
 				3A946D001BAA06B500E1259B /* Main.storyboard */,
 				3A946D031BAA06B500E1259B /* Assets.xcassets */,
 				3A946D051BAA06B500E1259B /* LaunchScreen.storyboard */,
@@ -266,7 +263,6 @@
 			files = (
 				3A946D2D1BAA070900E1259B /* CustomTabBarViewController.swift in Sources */,
 				3A946D311BAA07AC00E1259B /* VueTabBarSegue.swift in Sources */,
-				3A946CFF1BAA06B500E1259B /* ViewController.swift in Sources */,
 				3A946D2C1BAA070900E1259B /* VueTabBarViewController.swift in Sources */,
 				3A946CFD1BAA06B500E1259B /* AppDelegate.swift in Sources */,
 			);
@@ -495,6 +491,7 @@
 				3A946D231BAA06B500E1259B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3A946D241BAA06B500E1259B /* Build configuration list for PBXNativeTarget "VueTabControllerTests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +500,7 @@
 				3A946D261BAA06B500E1259B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3A946D271BAA06B500E1259B /* Build configuration list for PBXNativeTarget "VueTabControllerUITests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +509,7 @@
 				3A946D291BAA06B500E1259B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
